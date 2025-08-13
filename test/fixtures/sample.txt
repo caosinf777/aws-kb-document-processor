@@ -1,0 +1,13 @@
+Amazon Bedrock User Guide
+
+This is a sample document for testing the AWS KB Document Processor.
+
+Amazon Bedrock is a fully managed service that makes foundation models from Amazon and leading AI startups available through an API.
+
+Key Features:
+- Model selection from multiple providers
+- Serverless experience
+- Private customization
+- Integrated with AWS services
+
+This sample document contains information about Bedrock to test the service detection and processing capabilities.

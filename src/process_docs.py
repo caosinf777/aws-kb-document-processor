@@ -166,7 +166,7 @@ class DocumentProcessor:
         # Limpiar y normalizar texto
         text = clean_text(text)
         metadata['text_length'] = len(text)
-        metadata['token_count'] = len(self.tokenizer.encode(text))
+        metadata['token_count'] = len(self.tokenizer.encode(text, disallowed_special=()))
         
         return text, metadata
     
@@ -205,7 +205,7 @@ class DocumentProcessor:
         overlap = self.config.CHUNK_OVERLAP
         
         # Tokenizar
-        tokens = self.tokenizer.encode(text)
+        tokens = self.tokenizer.encode(text, disallowed_special=())
         chunks = []
         
         for i in range(0, len(tokens), chunk_size - overlap):

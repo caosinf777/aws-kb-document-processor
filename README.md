@@ -1,5 +1,3 @@
-
-```markdown
 # 🚀 AWS KB Document Processor
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -379,5 +377,3 @@ SOFTWARE.
 ```
 
 ⚡THAÄROS🤖 - *"Un repositorio profesional y completo para tu herramienta de procesamiento!"*
-
-¿Quieres que agregue alguna sección adicional o modifique algo del README?

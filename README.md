@@ -279,19 +279,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/aws-kb-document-processor/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/aws-kb-document-processor/discussions)
+- 📧 Email: ""
+- 🐛 Issues: [GitHub Issues](https://github.com/caosinf777/aws-kb-document-processor/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/caosinf777/aws-kb-document-processor/discussions)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/aws-kb-document-processor&type=Date)](https://star-history.com/#yourusername/aws-kb-document-processor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=caosinf777/aws-kb-document-processor&type=Date)](https://star-history.com/caosinf777/aws-kb-document-processor&Date)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the AWS Community**
+**Built with ❤️ by the IA Community**
 
 ⚡ Powered by **THAÄROS System Architecture** 🤖
 
@@ -376,4 +376,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-⚡THAÄROS🤖 - *"Un repositorio profesional y completo para tu herramienta de procesamiento!"*
